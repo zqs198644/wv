@@ -1,0 +1,59 @@
+/* CSS Document  */
+body{font-family:"ËÎÌå", Arial,Verdana, sans-serif, Helvetica;font-size:12px;margin:0;background:#f4f5eb;color:#000;}
+dl,ul,li{list-style:none;}
+a img{border:0;}
+a{color:#000;}
+a:link,a:visited,a:active,a:hover{text-decoration:none;}
+h3{font-size:12px;}
+*{
+	margin:0;padding:0;
+}
+.clearboth {clear:both;font-size:0px;}
+input {vertical-align:middle;}
+body{height:100%;}
+.noneBox {display:none;}
+/*----Í·---------------------------*/
+.header{height:58px;zoom:1;overflow:hidden;}
+.header01{float:left;height:38px;margin:10px 15px;width:117px;_display:inline;background:url(../images/wvlogo1.png) no-repeat;}
+.header02{float:left;height:28px;width:auto;margin-left:10px;padding-top:25px;font-size:20px;}
+.header03{float:right;height:53px;width:67px;margin-right:15px;background:url(../images/logo.gif);}
+/*----left---------------------------*/
+.left{float:left;width:214px;height:auto;margin:8px 0 8px 8px!important;margin:8px 0 4px 4px;*height:646px;}
+.left_1{width:214px;height:36px;background:url(../images/left02_bei.png) no-repeat;margin-bottom:8px;padding-left:10px;}
+.left_1_c{float:left;height:33px;line-height:33px;width:198px;padding-left:10px;color:#002f76;}
+.left_1_c img{height:17px;width:17px;margin:3px 10px 0 0;}
+.left_2{width:214px;height:auto;margin-bottom:8px;}
+.left_2top{height:36px;background:url(../images/left02_bei.png) repeat-x;line-height:33px;padding-left:10px;font-weight:bold;}
+.left_2down{border:1px solid #b4b4b4;border-top:0;background:#fff;}
+.left_2down01{width:202px;height:27px;line-height:27px;padding-left:10px;margin-left:10px;background:url(../images/01.gif) no-repeat left center;}
+.leftNode ul{margin:0;padding:0 5px 0 19px;}
+.leftNode li{width:auto;height:20px;line-height:20px;margin:3px 0;padding-left:2px;}
+.leftNode_li{background:#eff6ff;} 
+.left03_c{height:32px;line-height:32px;padding-bottom:1px;margin-right:20px;padding-left:10px;color:#002f76;background:url(../images/auto.png) no-repeat right center;}
+/*----rrcc-------------*/
+.rrcc{width:auto;margin:8px 8px 8px 222px;}
+.center{float:left;height:200px;width:8px;margin-left:8px!important;margin-left:4px; background:url(../images/center0.gif) no-repeat;cursor:pointer;}
+
+/*----right---------------------------*/
+.right{width:auto;height:90%;margin-left:20px!important;margin-left:10px;border:1px solid #b4b4b4;background:#fff;min-height:638px;_height:638px;}
+.right span{color:#666;}
+.right01{padding-left:20px;margin:9px 0; background:url(../images/04.gif) no-repeat 10px center;} 
+
+/**xy**/
+.xy1 {margin:10px 10px 10px 9px;}
+.xy1 td, .xy1 th{line-height:18px; border:1px solid #CCC;padding:2px 5px;width:180px;}
+.xy1 th{background:#F4F5EB;color:#454545;font-weight:bold;}
+.xy1 .red{color:#F00;}
+.xy1 .bgblue{background:#0CF;}
+.xy1 .bold{font-weight:bold;}
+/*login*/
+.logo{width:320px;margin:170px auto 0 auto;padding:10px 0;font-size:18px;font-weight:bold; line-height:38px;color:#454545;}
+#login{width:320px;border:1px solid #ddd;margin:0px auto;color:#454545;}
+.content li{height:24px;padding:5px 0;}
+.content .inp input {border:1px solid #999;width:152px;height:22px;line-height:22px; vertical-align:middle;}
+.content .inp1 input {border:1px solid #999;width:60px;height:22px;line-height:22px; vertical-align:middle;}
+.content img{ vertical-align:middle;padding:0 10px;}
+.content .sub input{border:none;}
+.content{margin:10px 20px;}
+.sub{text-align:center;}
+.sub input {height: 24px;line-height:24px;text-align:center;width:60px;border:1px solid #666;margin-right:20px;background:#d7d7d7;color:#454545;}

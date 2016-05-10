@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<chart>
+  <series>  
+    </series>  
+  <graphs>
+		<graph title="每日流水金额" line_width="1" >
+ </graph>
+
+	</graphs>
+</chart>

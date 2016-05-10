@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+  <info value="0">
+    <category>干豆腐</category>
+    <money>62.7</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="1">
+    <category>猪蹄</category>
+    <money>16.4</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="2">
+    <category>瓦罐鸡</category>
+    <money>134.7</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="3">
+    <category>荷叶鸡</category>
+    <money>236.5</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="4">
+    <category>鸡爪</category>
+    <money>102.6</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="5">
+    <category>五花肉</category>
+    <money>38.9</money>
+    <datetime>2012-12-19</datetime>
+  </info>
+  <info value="6">
+    <category>荷叶鸡</category>
+    <money>300</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="7">
+    <category>瓦罐鸡</category>
+    <money>249</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="8">
+    <category>五花肉</category>
+    <money>33.6</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="9">
+    <category>猪肝</category>
+    <money>37.5</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="10">
+    <category>鸡爪</category>
+    <money>20</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="11">
+    <category>鸡腿</category>
+    <money>60</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="12">
+    <category>鸭腿</category>
+    <money>17.8</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="13">
+    <category>鸡翅尖</category>
+    <money>33.7</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="14">
+    <category>鸭子</category>
+    <money>70.6</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="15">
+    <category>鸭腿</category>
+    <money>15.4</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="16">
+    <category>干豆腐</category>
+    <money>100.5</money>
+    <datetime>2012-12-20</datetime>
+  </info>
+  <info value="17">
+    <category>瓦罐鸡</category>
+    <money>151.3</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="18">
+    <category>荷叶鸡</category>
+    <money>214.3</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="19">
+    <category>干豆腐</category>
+    <money>29.6</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="20">
+    <category>鸡腿</category>
+    <money>52.1</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="21">
+    <category>鸡肝</category>
+    <money>23.2</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="22">
+    <category>五花肉</category>
+    <money>36.5</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="23">
+    <category>鸭腿</category>
+    <money>36.7</money>
+    <datetime>2012-12-21</datetime>
+  </info>
+  <info value="24">
+    <category>瓦罐鸡</category>
+    <money>71.4</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="25">
+    <category>荷叶鸡</category>
+    <money>184.6</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="26">
+    <category>鸡爪</category>
+    <money>15.5</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="27">
+    <category>干豆腐</category>
+    <money>48.8</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="28">
+    <category>鸭腿</category>
+    <money>20.6</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="29">
+    <category>鸡腿</category>
+    <money>25</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="30">
+    <category>鸡肚</category>
+    <money>4.5</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="31">
+    <category>猪肝</category>
+    <money>18.2</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="32">
+    <category>五花肉</category>
+    <money>35.4</money>
+    <datetime>2012-12-22</datetime>
+  </info>
+  <info value="33">
+    <category>瓦罐鸡</category>
+    <money>47.1</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="34">
+    <category>荷叶鸡</category>
+    <money>151.2</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="35">
+    <category>干豆腐</category>
+    <money>46.7</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="36">
+    <category>鸡腿</category>
+    <money>37.6</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="37">
+    <category>鸭子</category>
+    <money>24.6</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="38">
+    <category>鸡翅尖</category>
+    <money>12.3</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="39">
+    <category>猪蹄</category>
+    <money>59.3</money>
+    <datetime>2012-12-24</datetime>
+  </info>
+  <info value="40">
+    <category>荷叶鸡</category>
+    <money>60.2</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="41">
+    <category>瓦罐鸡</category>
+    <money>118.3</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="42">
+    <category>鸡腿</category>
+    <money>41</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="43">
+    <category>鸡腿</category>
+    <money>41</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="44">
+    <category>鸭腿</category>
+    <money>28.3</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="45">
+    <category>鸡肝</category>
+    <money>7</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="46">
+    <category>鸡爪</category>
+    <money>59.7</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="47">
+    <category>干豆腐</category>
+    <money>40.8</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="48">
+    <category>猪蹄</category>
+    <money>13.2</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="49">
+    <category>鸭子</category>
+    <money>14.9</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="50">
+    <category>五花肉</category>
+    <money>11.8</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="51">
+    <category>荷叶鸡</category>
+    <money>184.6</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="52">
+    <category>瓦罐鸡</category>
+    <money>71.4</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="53">
+    <category>鸡腿</category>
+    <money>25</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="54">
+    <category>鸭腿</category>
+    <money>20.6</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="55">
+    <category>猪肝</category>
+    <money>18.2</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="56">
+    <category>鸡肝</category>
+    <money>4.5</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="57">
+    <category>鸡爪</category>
+    <money>15.5</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="58">
+    <category>干豆腐</category>
+    <money>48.8</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="59">
+    <category>五花肉</category>
+    <money>35.9</money>
+    <datetime>2012-12-26</datetime>
+  </info>
+  <info value="60">
+    <category>荷叶鸡</category>
+    <money>149.1</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="61">
+    <category>瓦罐鸡</category>
+    <money> 50</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="62">
+    <category>鸡腿</category>
+    <money>30.2</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="63">
+    <category>鸭腿</category>
+    <money>7.1</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="64">
+    <category>猪肝</category>
+    <money>20.4</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="65">
+    <category>鸡翅尖</category>
+    <money>4.9</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="66">
+    <category>鸡爪</category>
+    <money>10.1</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="67">
+    <category>干豆腐</category>
+    <money>18.1</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="68">
+    <category>猪蹄</category>
+    <money>32.7</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="69">
+    <category>鸭子</category>
+    <money>18</money>
+    <datetime>2012-12-27</datetime>
+  </info>
+  <info value="70">
+    <category>荷叶鸡</category>
+    <money>60.2</money>
+    <datetime>2012-12-25</datetime>
+  </info>
+  <info value="71">
+    <category>荷叶鸡</category>
+    <money>269.5</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="72">
+    <category>瓦罐鸡</category>
+    <money>75.4</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="73">
+    <category>鸡腿</category>
+    <money>16.6</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="74">
+    <category>鸭腿</category>
+    <money>42.2</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="75">
+    <category>猪肝</category>
+    <money>9</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="76">
+    <category>鸡肝</category>
+    <money>21</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="77">
+    <category>鸡爪</category>
+    <money>6.6</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="78">
+    <category>干豆腐</category>
+    <money>60.04</money>
+    <datetime>2012-12-28</datetime>
+  </info>
+  <info value="79">
+    <category>荷叶鸡</category>
+    <money>97.4</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="80">
+    <category>瓦罐鸡</category>
+    <money>91.4</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="81">
+    <category>鸡腿</category>
+    <money>7.6</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="82">
+    <category>鸡肝</category>
+    <money>4.1</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="83">
+    <category>肥肠</category>
+    <money>21.9</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="84">
+    <category>猪耳朵</category>
+    <money>11</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="85">
+    <category>干豆腐</category>
+    <money>23</money>
+    <datetime>2012-12-29</datetime>
+  </info>
+  <info value="86">
+    <category>荷叶鸡</category>
+    <money>52.7</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="87">
+    <category>瓦罐鸡</category>
+    <money>147.7</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="88">
+    <category>鸡腿</category>
+    <money>33.8</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="89">
+    <category>鸡肝</category>
+    <money>28.6</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="90">
+    <category>鸡爪</category>
+    <money>5.2</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="91">
+    <category>鱼皮</category>
+    <money>5.4</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="92">
+    <category>猪头肉</category>
+    <money>75.5</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="93">
+    <category>肥肠</category>
+    <money>23.4</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="94">
+    <category>干豆腐</category>
+    <money>65.1</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="95">
+    <category>猪蹄</category>
+    <money>16.8</money>
+    <datetime>2012-12-30</datetime>
+  </info>
+  <info value="96">
+    <category>荷叶鸡</category>
+    <money>182.8</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="97">
+    <category>瓦罐鸡</category>
+    <money>252.3</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="98">
+    <category>鸡腿</category>
+    <money>16.3</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="99">
+    <category>鸭腿</category>
+    <money>14.2</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="100">
+    <category>猪肝</category>
+    <money>47.5</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="101">
+    <category>鸡翅尖</category>
+    <money>22.1</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="102">
+    <category>鱼皮</category>
+    <money>2.6</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="103">
+    <category>猪头肉</category>
+    <money>21.6</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="104">
+    <category>肥肠</category>
+    <money>19.7</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="105">
+    <category>猪耳朵</category>
+    <money>10.9</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="106">
+    <category>马板肠</category>
+    <money>16.2</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="107">
+    <category>干豆腐</category>
+    <money>34.5</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="108">
+    <category>鸭子</category>
+    <money>23.2</money>
+    <datetime>2012-12-31</datetime>
+  </info>
+  <info value="109">
+    <category>荷叶鸡</category>
+    <money>774.9</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="110">
+    <category>瓦罐鸡</category>
+    <money>590.8</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="111">
+    <category>鸡腿</category>
+    <money>21.1</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="112">
+    <category>鸭腿</category>
+    <money>42.1</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="113">
+    <category>猪肝</category>
+    <money>192.9</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="114">
+    <category>鸡翅尖</category>
+    <money>22.7</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="115">
+    <category>鸡爪</category>
+    <money>28.8</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="116">
+    <category>辣丝</category>
+    <money>18.7</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="117">
+    <category>鱼皮</category>
+    <money>8.3</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="118">
+    <category>猪头肉</category>
+    <money>350.1</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="119">
+    <category>肥肠</category>
+    <money>42</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="120">
+    <category>猪耳朵</category>
+    <money>53.9</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="121">
+    <category>马板肠</category>
+    <money>22.2</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="122">
+    <category>干豆腐</category>
+    <money>58.8</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="123">
+    <category>猪蹄</category>
+    <money>122.2</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="124">
+    <category>鸭子</category>
+    <money>90.7</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="125">
+    <category>五花肉</category>
+    <money>52.1</money>
+    <datetime>2013-01-01</datetime>
+  </info>
+  <info value="126">
+    <category>荷叶鸡</category>
+    <money>248.5</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="127">
+    <category>瓦罐鸡</category>
+    <money>275.9</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="128">
+    <category>猪肝</category>
+    <money>22.4</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="129">
+    <category>鱼皮</category>
+    <money>5.4</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="130">
+    <category>猪头肉</category>
+    <money>78.3</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="131">
+    <category>肥肠</category>
+    <money>54.3</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="132">
+    <category>猪耳朵</category>
+    <money>6.6</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="133">
+    <category>马板肠</category>
+    <money>15.3</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="134">
+    <category>干豆腐</category>
+    <money>9.2</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="135">
+    <category>猪蹄</category>
+    <money>34.2</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="136">
+    <category>鸭子</category>
+    <money>18.3</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="137">
+    <category>五花肉</category>
+    <money>9.6</money>
+    <datetime>2013-01-02</datetime>
+  </info>
+  <info value="138">
+    <category>荷叶鸡</category>
+    <money>88.2</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="139">
+    <category>瓦罐鸡</category>
+    <money>51.7</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="140">
+    <category>猪肝</category>
+    <money>65.9</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="141">
+    <category>鱼皮</category>
+    <money>19.5</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="142">
+    <category>猪头肉</category>
+    <money>67.7</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="143">
+    <category>马板肠</category>
+    <money>22.9</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="144">
+    <category>干豆腐</category>
+    <money>25</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="145">
+    <category>海带</category>
+    <money>23.3</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="146">
+    <category>肉皮</category>
+    <money>14.9</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="147">
+    <category>实蛋</category>
+    <money>5.6</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="148">
+    <category>肚心</category>
+    <money>11</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="149">
+    <category>猪心</category>
+    <money>14</money>
+    <datetime>2013-01-03</datetime>
+  </info>
+  <info value="150">
+    <category>荷叶鸡</category>
+    <money>148.2</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="151">
+    <category>瓦罐鸡</category>
+    <money>24.6</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="152">
+    <category>鸡腿</category>
+    <money>12.6</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="153">
+    <category>鸭腿</category>
+    <money>17.6</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="154">
+    <category>猪肝</category>
+    <money>67.2</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="155">
+    <category>辣丝</category>
+    <money>7.8</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="156">
+    <category>鱼皮</category>
+    <money>16.7</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="157">
+    <category>猪头肉</category>
+    <money>149.3</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="158">
+    <category>干豆腐</category>
+    <money>17.1</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="159">
+    <category>猪蹄</category>
+    <money>27.7</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="160">
+    <category>海带</category>
+    <money>13.9</money>
+    <datetime>2013-01-04</datetime>
+  </info>
+  <info value="161">
+    <category>荷叶鸡</category>
+    <money>204.4</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="162">
+    <category>瓦罐鸡</category>
+    <money>48.2</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="163">
+    <category>鸡腿</category>
+    <money>23.3</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="164">
+    <category>猪肝</category>
+    <money>41.4</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="165">
+    <category>鸡爪</category>
+    <money>5.7</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="166">
+    <category>辣丝</category>
+    <money>6.7</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="167">
+    <category>鱼皮</category>
+    <money>8.2</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="168">
+    <category>猪头肉</category>
+    <money>58.4</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="169">
+    <category>猪耳朵</category>
+    <money>7.7</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="170">
+    <category>干豆腐</category>
+    <money>32.8</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="171">
+    <category>猪蹄</category>
+    <money>16.3</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="172">
+    <category>鸭子</category>
+    <money>29</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="173">
+    <category>肘子</category>
+    <money>130.8</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="174">
+    <category>羊血</category>
+    <money>15.9</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="175">
+    <category>海带</category>
+    <money>5</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="176">
+    <category>肉皮</category>
+    <money>23.6</money>
+    <datetime>2013-01-05</datetime>
+  </info>
+  <info value="177">
+    <category>鸡翅尖</category>
+    <money>11.4
+</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="178">
+    <category>羊血</category>
+    <money>5.8</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="179">
+    <category>干豆腐</category>
+    <money>37.3</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="180">
+    <category>肉皮</category>
+    <money>10.4</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="181">
+    <category>肚心</category>
+    <money>19.3</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="182">
+    <category>荷叶鸡</category>
+    <money>85.5</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="183">
+    <category>鸡腿</category>
+    <money>10.6</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="184">
+    <category>瓦罐鸡</category>
+    <money>72.7</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="185">
+    <category>猪舌头</category>
+    <money>14.8</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="186">
+    <category>猪头肉</category>
+    <money>20.3</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="187">
+    <category>猪耳朵</category>
+    <money>11.2</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="188">
+    <category>猪蹄</category>
+    <money>16.8</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="189">
+    <category>猪肝</category>
+    <money>35.1</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="190">
+    <category>羊血</category>
+    <money>11.2</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="191">
+    <category>鸭子</category>
+    <money>62.3</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="192">
+    <category>鸡腿</category>
+    <money>18.3</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="193">
+    <category>海带</category>
+    <money>43.5</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="194">
+    <category>荷叶鸡</category>
+    <money>354</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="195">
+    <category>瓦罐鸡</category>
+    <money>69</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="196">
+    <category>鸭腿</category>
+    <money>5.6</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="197">
+    <category>猪肝</category>
+    <money>28.5</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="198">
+    <category>猪头肉</category>
+    <money>16.3</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="199">
+    <category>干豆腐</category>
+    <money>34.9</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="200">
+    <category>羊血</category>
+    <money>7.8</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="201">
+    <category>海带</category>
+    <money>50.3</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="202">
+    <category>肉皮</category>
+    <money>13.9</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="203">
+    <category>护心</category>
+    <money>13.2</money>
+    <datetime>2013-01-06</datetime>
+  </info>
+  <info value="204">
+    <category>瓦罐鸡</category>
+    <money>100.2</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="205">
+    <category>荷叶鸡</category>
+    <money>243.8</money>
+    <datetime>2013-01-07</datetime>
+  </info>
+  <info value="206">
+    <category>海带</category>
+    <money>14.6</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="207">
+    <category>鸭腿</category>
+    <money>18.6</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="208">
+    <category>猪头肉</category>
+    <money>32</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="209">
+    <category>猪肝</category>
+    <money>11.5</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="210">
+    <category>干豆腐</category>
+    <money>9.8</money>
+    <datetime>2013-01-08</datetime>
+  </info>
+  <info value="211">
+    <category>瓦罐鸡</category>
+    <money>125.9</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="212">
+    <category>荷叶鸡</category>
+    <money>167.4</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="213">
+    <category>鸡腿</category>
+    <money>8.1
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="214">
+    <category>鸡翅尖</category>
+    <money>8.9
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="215">
+    <category>海带</category>
+    <money>14.9
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="216">
+    <category>肘子</category>
+    <money>59.2
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="217">
+    <category>鸭子</category>
+    <money>44.6</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="218">
+    <category>鸭腿</category>
+    <money>11.6
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="219">
+    <category>猪头肉</category>
+    <money>21.3
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="220">
+    <category>猪耳朵</category>
+    <money>16.3
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="221">
+    <category>猪肝</category>
+    <money>59.7
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="222">
+    <category>干豆腐</category>
+    <money>40.3
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="223">
+    <category>辣丝</category>
+    <money>4元
+</money>
+    <datetime>2013-01-09</datetime>
+  </info>
+  <info value="224">
+    <category>瓦罐鸡</category>
+    <money>77.7</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="225">
+    <category>荷叶鸡</category>
+    <money>83.1</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="226">
+    <category>鸡腿</category>
+    <money>39.4
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="227">
+    <category>鸡爪</category>
+    <money>6
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="228">
+    <category>鸡翅尖</category>
+    <money>5.1</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="229">
+    <category>海带</category>
+    <money>41.3
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="230">
+    <category>鸭子</category>
+    <money>21.1</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="231">
+    <category>羊血</category>
+    <money>7.3</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="232">
+    <category>猪头肉</category>
+    <money>13
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="233">
+    <category>猪耳朵</category>
+    <money>19.4
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="234">
+    <category>猪肝</category>
+    <money>23.3
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="235">
+    <category>干豆腐</category>
+    <money>36.1</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="236">
+    <category>辣丝</category>
+    <money>6
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+  <info value="237">
+    <category>五花肉</category>
+    <money>7.3元
+</money>
+    <datetime>2013-01-10</datetime>
+  </info>
+</root>

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DreamTrips套餐转让系统</title>
+<link href="admin/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script language="javascript">
+	// ================================================================
+	// 本函数用于限制文本输入框中只能输入数字"0"到"9",".","-"
+	// ================================================================
+	function NumberText(){
+		if ( !(((window.event.keyCode >= 48) && (window.event.keyCode <= 57)) || (window.event.keyCode == 13))){
+			window.event.keyCode = 0 ;
+		}
+	}
+	// ================================================================
+	// 本函数用于判断文本框输入不能为空
+	// ================================================================
+	function InputCheck(){
+		if((User_Logon.user_id.value) == ""){
+			alert("请填写用户名！");
+			User_Logon.user_id.focus();
+			return false;
+		}
+		if((User_Logon.user_pass.value) == ""){
+			alert("请填写密码！");
+			User_Logon.user_pass.focus();
+			return false;
+		}
+		return true;
+	}
+		
+</script>
+<div class="logo">
+<img src="admin/images/wvlogo.png" width="120" height="45" />DreamTrips套餐转让</div>
+<div id="login">
+    <div class="content">
+<form action="admin/infop_login.php" name="User_Logon" onSubmit="return InputCheck()" method="POST">
+            <ul>
+                <li class="inp"><span>用户名：</span>
+                  <input name="user_id" type="text" id="user_id" /></li>
+                <li class="inp"><span>密 &nbsp;&nbsp;&nbsp;码：</span>
+                  <input type="password" name="user_pass" /></li>
+              <li class="sub">
+                  <input name="submit" type="submit" value="登陆"/>
+<a href="register.html"><font color='red'>注册账号</font></a>                </li>
+            </ul>      
+</form>
+    </div>
+</div>
+</body>
+<div align="center">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258757006'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1258757006%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+
+</html>

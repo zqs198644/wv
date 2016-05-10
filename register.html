@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>注册套餐转让系统</title>
+<link href="admin/css/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.STYLE1 {color: #FF0000}
+-->
+</style>
+</head>
+
+<body>
+<script language="javascript">
+	// ================================================================
+	// 本函数用于限制文本输入框中只能输入数字"0"到"9",".","-"
+	// ================================================================
+	function NumberText(){
+		if ( !(((window.event.keyCode >= 48) && (window.event.keyCode <= 57)) || (window.event.keyCode == 13))){
+			window.event.keyCode = 0 ;
+		}
+	}
+	// ================================================================
+	// 本函数用于判断文本框输入不能为空
+	// ================================================================
+	function InputCheck(){
+		if((User_Logon.user_id.value) == ""){
+			alert("请填写用户名！");
+			User_Logon.user_id.focus();
+			return false;
+		}
+		if((User_Logon.password_one.value) == ""){
+			alert("请填写密码！");
+			User_Logon.password_one.focus();
+			return false;
+		}
+	   if((User_Logon.password_two.value) == ""){
+			alert("重复输入密码！");
+			User_Logon.password_two.focus();
+			return false;
+		}
+		return true;
+	}
+		
+</script>
+<div class="logo">
+<img src="admin/images/wvlogo.png" width="120" height="45" />注册套餐转让系统</div>
+<div id="login">
+    <div class="content">
+<form action="admin/register.php" name="User_Logon" onSubmit="return InputCheck()" method="POST">
+            <ul>
+                <li class="inp"><span>用户名 ：&nbsp;&nbsp;</span>
+                  <input type="text" name="user_id" /></li>
+                <li class="inp"><span>密 &nbsp;&nbsp;&nbsp;&nbsp;码：&nbsp;&nbsp;</span><input type="password" name="password_one" /></li>
+			    <li class="inp"><span>重复密码：</span><input type="password" name="password_two" /></li>
+              <li class="sub">
+                  <input name="submit" type="submit" value="注册"/>
+              </li>
+			  <li class="sub"><span class="STYLE1"><strong>提示：</strong>用户名、密码任意填写,尽量不用自己常用密码</span></li>
+            </ul>      
+</form>
+    </div>
+</div>
+<div align="center">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258757006'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1258757006%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+
+</body>
+</html>

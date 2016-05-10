@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<settings>
+  <labels>
+    <label lid="0">
+      <align>center</align>
+      <text_color>#0D8ECF</text_color>
+      <text_size>15</text_size>
+      <text>流水金额: 2014-03-09 至 2014-04-08</text>
+    </label>
+  </labels>
+</settings>
