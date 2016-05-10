@@ -1,7 +1,7 @@
 <?php
 $cfg->host = "localhost";
 $cfg->username = "wv";
-$cfg->password = "wvwvwv2015";
+$cfg->password = "###wvwvwv2015####";
 $cfg->dbname = "wv";
 
 $connect = mysql_connect("$cfg->host","$cfg->username","$cfg->password");
